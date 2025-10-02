@@ -1,0 +1,34 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+# xgboost
+# lightgbm
+# catboost
+
+# Deep Learning (optional - uncomment if needed)
+# torch
+# torchvision
+# torchaudio
+ tensorflow
+# keras
+
+# NLP (optional)
+# spacy
+# nltk
+# transformers
+
+# Utilities
+tqdm
+jupyter
+ipython
+openpyxl
+requests
