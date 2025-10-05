@@ -1,0 +1,36 @@
+{
+    "dataset_name": "IRB2400_IK_Real",
+    "description": "Real dataset for inverse kinematics of ABB IRB 2400, with pose + current joint angles as inputs and target joint angles as outputs.",
+    "n_samples": 300000,
+    "n_features": 12,
+    "n_targets": 6,
+    "features": [
+        "x",
+        "y",
+        "z",
+        "yaw",
+        "pitch",
+        "roll",
+        "q1_in",
+        "q2_in",
+        "q3_in",
+        "q4_in",
+        "q5_in",
+        "q6_in"
+    ],
+    "targets": [
+        "q1_out",
+        "q2_out",
+        "q3_out",
+        "q4_out",
+        "q5_out",
+        "q6_out"
+    ],
+    "data_source": "Provided real dataset (IRB 2400 manipulator)",
+    "created_on": "2025-10-05T10:29:26.055864",
+    "file_format": "CSV",
+    "quality_checks": {
+        "nan_check": true,
+        "dtype_check": true
+    }
+}
