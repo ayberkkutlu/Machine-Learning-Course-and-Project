@@ -14,9 +14,9 @@ scikit-learn
 # lightgbm
 # catboost
 
-# Deep Learning (optional - uncomment if needed)
-# torch
-# torchvision
+# Deep Learning 
+torch
+torchvision
 # torchaudio
  tensorflow
 # keras
