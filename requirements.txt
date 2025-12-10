@@ -18,17 +18,22 @@ xgboost
 torch
 torchvision
 # torchaudio
- tensorflow
+tensorflow
 # keras
+
+# Image Processing (Required for HW2 Item 12)
+opencv-python
+pillow
 
 # NLP (optional)
 # spacy
 # nltk
 # transformers
-
+    
 # Utilities
 tqdm
 jupyter
 ipython
 openpyxl
 requests
+h5py
