@@ -116,6 +116,7 @@ pip install -r requirements.txt
 ### Fatigue Dataset (HW1/HW2)
 
   * **Description:** Engineering dataset containing stress/strain parameters and cycle life data.
+  * **Source:** Data can be found on Kaggle as Fatigue Dataset.
 
 -----
 
@@ -124,6 +125,6 @@ pip install -r requirements.txt
 **Ayberk Kutlu**
 
   * **Institution:** Bilkent University, Mechanical Engineering
-  * **Focus:** Robotics, Inverse Kinematics, Control Systems, Data-Driven Modeling
+  * **Focus:** Mechatronics, Control Systems, Data-Driven Engineering
 
 <!-- end list -->
